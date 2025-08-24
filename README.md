@@ -49,7 +49,5 @@ It's recommended to use a **codespace** provided by your preferred cloud provide
 
 This project is intended solely for **demonstration purposes**. It **does not handle real-world transactions** and should not be used in a production environment.
 
-**Backend Repo**
-[https://github.com/duske953/Ecommerce-backend](https://github.com/duske953/Ecommerce-backend)
 
 
